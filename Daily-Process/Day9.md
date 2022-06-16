@@ -1,6 +1,6 @@
 **2021-7-29**
 
-# CS-231n L8 Detection and segmentation *CORE*
+# CS-231n L11 Detection and segmentation *CORE*
 
 ![image-20210729094316204](Day9.assets/image-20210729094316204.png)
 
